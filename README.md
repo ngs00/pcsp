@@ -4,7 +4,7 @@ Retrieving unknown atomic structures from observable analytical spectra or image
 
 
 ## Dataset
-Due to the license issues, we uploaded a preprocessed .pt file of the NIST dataset instead of its raw data. You can download the preprocessed NIST dataset via https://drive.google.com/drive/folders/1Gi8XBxfyo2zfLhZyL1XE0IHwkXp1neZF
+Due to the license issues, we uploaded a preprocessed .pt file of the NIST dataset instead of its raw data. You can download the preprocessed NIST dataset via https://drive.google.com/drive/folders/1Gi8XBxfyo2zfLhZyL1XE0IHwkXp1neZF.
 
 
 ## Run
